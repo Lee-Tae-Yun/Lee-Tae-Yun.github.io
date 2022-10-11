@@ -109,6 +109,9 @@ ul li:nth-child(3)::before {
     content: url('../images/ico_facebook.png');
 }
 ul li:nth-child(4)::before {
+    content: url('../images/ico_isr.png');
+}
+ul li:nth-child(5)::before {
     content: url('../images/ico_blog.png');
 }
 
