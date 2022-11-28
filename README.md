@@ -1,6 +1,8 @@
 # Lee-Tae-Yun.github.io
 https://radiant-cuchufli-7e3a28.netlify.app/
 
+<img width="306" alt="스크린샷 2022-11-28 오후 4 58 46" src="https://user-images.githubusercontent.com/58839422/204224250-20ce5370-e443-4631-adb1-baaf24d2ecd6.png">
+
 cordova 설정방법
 1. JDK 설치
 jdk-8u162-windows-x64.exe    		
