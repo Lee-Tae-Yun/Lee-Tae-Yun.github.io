@@ -72,8 +72,6 @@ Path
 
 
 9. 안드로이드 코르도바 앱 만들기
->mkdir \HybridProject
->cd \HybridProject
 >cordova create test com.example.test testApp -d
 >cd test
 >dir
@@ -81,7 +79,8 @@ Path
 >cordova platform add android
 >dir platform
 
-10. build.gradle(:app) ->안드로이드 스튜디오
+10. 새로운 빈 프로젝트르 만들고 그프로젝트 안에
+build.gradle(:app) ->안드로이드 스튜디오
 
 -android 밑에 namespace 위에
 packagingOptions {
