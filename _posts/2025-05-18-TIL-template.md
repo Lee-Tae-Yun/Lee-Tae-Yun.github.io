@@ -1,7 +1,7 @@
 ---
 title: "Day XX - TIL "
 description: TIL Template
-date: 2025-06-04 10:00:00
+date: 2025-06-04 10:00:00 +09:00
 categories: [TIL]
 tags: [TEMPLATE]
 pin: false
