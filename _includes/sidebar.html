@@ -17,22 +17,29 @@
     <!-- Total view count -->
     <div class="site-view-count text-muted small mt-2 ms-1">
       <div id="site-total"> Total: 불러오는 중...</div>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    fetch("https://oopschunsik.goatcounter.com/counter/.json")
-      .then(res => res.json())
-      .then(data => {
-        const el = document.getElementById("site-total");
-        if (el) {
-          el.innerText = `Total: ${data.count.toLocaleString()}회`;
-        }
-      })
-      .catch(() => {
-        const el = document.getElementById("site-total");
-        if (el) el.innerText = "Total: 불러오기 실패";
-      });
-  });
-</script>
+        <script>
+          document.addEventListener("DOMContentLoaded", function () {
+            fetch("https://oopschunsik.goatcounter.com/counter/.json")
+              .then(res => res.json())
+              .then(data => {
+                const el = document.getElementById("site-total");
+                const target = data.count;
+                let current = 0;
+
+                const animate = setInterval(() => {
+                  current++;
+                  el.innerText = `${current.toLocaleString()}회`;
+                  if (current >= target) {
+                    clearInterval(animate);
+                  }
+                }, 50);
+              })
+              .catch(() => {
+                const el = document.getElementById("site-total");
+                if (el) el.innerText = "불러오기 실패";
+              });
+          });
+        </script>
     </div>
   </header>
   <!-- .profile-wrapper -->
