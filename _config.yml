@@ -77,8 +77,10 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
-
+  provider: goatcounter # now only supports 'goatcounter'
+  goatcounter:
+    id: oopschunsik
+    
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
