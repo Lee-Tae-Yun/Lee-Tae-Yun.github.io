@@ -13,6 +13,21 @@
 
     <a class="site-title d-block" href="{{ '/' | relative_url }}">{{ site.title }}</a>
     <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
+    <!-- Total view count -->
+    <div class="site-view-count text-muted small mt-2 ms-1">
+      <div id="site-total">👁️ Total: 불러오는 중...</div>
+      <script>
+        fetch("https://oopschunsik.goatcounter.com/counter/.json")
+          .then(res => res.json())
+          .then(data => {
+            document.getElementById("site-total").innerText =
+              `👁️ Total: ${data.count.toLocaleString()}회`;
+          })
+          .catch(() => {
+            document.getElementById("site-total").innerText = "👁️ Total: 불러오기 실패";
+          });
+      </script>
+    </div>
   </header>
   <!-- .profile-wrapper -->
 
