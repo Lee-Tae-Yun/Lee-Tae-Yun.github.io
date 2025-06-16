@@ -19,14 +19,11 @@ published: false
 
 ## 🔍 Today’s Error or Issue
 
----
 
 ## 🛠️ Troubleshooting
 
----
 
 ## 📝 Learning Summary
 
----
 
 ## 📘 Lesson Learned
