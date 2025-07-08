@@ -10,7 +10,7 @@ order: 4
        style="width: auto; height: 100%; object-fit: cover; object-position: center;">
 </div>
 
-## 😺 오류낸 춘식이 | OopsChunsik
+## 😺 오류낸 춘식이 | OopsChoonsik
 
 안녕하세요, 실수도 하지만  
 **개발을 누구보다 좋아하는 개발자**  
