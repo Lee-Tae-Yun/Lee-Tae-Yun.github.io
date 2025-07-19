@@ -23,20 +23,9 @@
 <h3 align="center"> 💻 좋아하는 것들 </h3>
 
 <div align="center">
-  <ul style="list-style: none; padding: 0;">
-    <li>🍎 Swift랑 iOS 앱 만들기</li>
-    <li>✨ 예쁜 UI 구상하고 직접 코드로 구현하기</li>
-    <li>📝 개발자 블로그에 기록 남기기</li>
-  </ul>
-</div>
-
-<h3 align="center"> 📫 연락 </h3>
-
-<div align="center">
-  <ul style="list-style: none; padding: 0;">
-    <li>🐙 GitHub: <a href="https://github.com/Lee-Tae-Yun" target="_blank">Lee-Tae-Yun</a></li>
-    <li>📧 이메일: <a href="mailto:cmskzkdl3698@icloud.com">cmskzkdl3698@icloud.com</a></li>
-  </ul>
+  <p>🍎 Swift랑 iOS 앱 만들기</p>
+  <p>✨ 예쁜 UI 구상하고 직접 코드로 구현하기</p>
+  <p>📝 개발자 블로그에 기록 남기기</p>
 </div>
 
 <hr>
