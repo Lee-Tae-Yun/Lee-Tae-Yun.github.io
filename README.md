@@ -12,31 +12,38 @@
   그만큼 <strong>더 깊이 배우고, 더 오래 기억</strong>해요.
 </p>
 
----
+<hr>
 
-### 🌱 개발하면서 자주 하는 말
+<h3 align="center"> 🌱 개발하면서 자주 하는 말 </h3>
 
-> "에러야 고마워, 또 하나 배웠다!"
+<p align="center"> "에러야 고마워, 또 하나 배웠다!" </p>
 
----
+<hr>
 
-### 💻 좋아하는 것들
+<h3 align="center"> 💻 좋아하는 것들 </h3>
 
-- Swift랑 iOS 앱 만들기 🍎  
-- 예쁜 UI 구상하고 직접 코드로 구현하기 ✨  
-- 개발자 블로그에 기록 남기기 📝
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li>🍎 Swift랑 iOS 앱 만들기</li>
+    <li>✨ 예쁜 UI 구상하고 직접 코드로 구현하기</li>
+    <li>📝 개발자 블로그에 기록 남기기</li>
+  </ul>
+</div>
 
----
+<h3 align="center"> 📫 연락 </h3>
 
-### 📫 연락
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li>🐙 GitHub: <a href="https://github.com/Lee-Tae-Yun" target="_blank">Lee-Tae-Yun</a></li>
+    <li>📧 이메일: <a href="mailto:cmskzkdl3698@icloud.com">cmskzkdl3698@icloud.com</a></li>
+  </ul>
+</div>
 
-- GitHub: [Lee-Tae-Yun](https://github.com/Lee-Tae-Yun)  
-- 이메일: [cmskzkdl3698@icloud.com](mailto:cmskzkdl3698@icloud.com)
-
----
+<hr>
 
 <p align="center">
   오늘도 조용히, 꾸준히 성장 중인 춘식이였습니다.<br>
   코드 속 고양이 한 마리 기억해주세요 🐈
 </p>
-> 오류낸 춘식이의 개발기록
+
+
