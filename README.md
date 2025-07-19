@@ -6,7 +6,7 @@
   <strong>개발을 누구보다 좋아하는 개발자</strong><br>
   <strong>오류낸 춘식이</strong>입니다. 🐾
 </p>
-[OopsChoosik DevLog](https://lee-tae-yun.github.io)
+
 <p align="center">
   코드를 만질 때마다 어딘가 하나쯤은 터뜨리지만...<br>
   그만큼 <strong>더 깊이 배우고, 더 오래 기억</strong>해요.
