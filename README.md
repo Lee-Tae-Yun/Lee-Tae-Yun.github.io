@@ -1,84 +1,42 @@
-<!-- markdownlint-disable-next-line -->
-<div align="center">
+<!-- README.md -->
+<h1 align="center"><a href="https://lee-tae-yun.github.io" target="_blank" style="text-decoration: none; color: inherit;">😺 오류낸 춘식이 | OopsChoonsik DevLog</a></h1>
 
-  <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+<p align="center">
+  안녕하세요, 실수도 하지만<br>
+  <strong>개발을 누구보다 좋아하는 개발자</strong><br>
+  <strong>오류낸 춘식이</strong>입니다. 🐾
+</p>
+[OopsChoosik DevLog](https://lee-tae-yun.github.io)
+<p align="center">
+  코드를 만질 때마다 어딘가 하나쯤은 터뜨리지만...<br>
+  그만큼 <strong>더 깊이 배우고, 더 오래 기억</strong>해요.
+</p>
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+---
 
-  [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
-  [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod)][license]&nbsp;
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)][gem]&nbsp;
-  [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)][open-container]
+### 🌱 개발하면서 자주 하는 말
 
-  [**Live Demo** →][demo]
+> "에러야 고마워, 또 하나 배웠다!"
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+---
 
-</div>
+### 💻 좋아하는 것들
 
-## Features
+- Swift랑 iOS 앱 만들기 🍎  
+- 예쁜 UI 구상하고 직접 코드로 구현하기 ✨  
+- 개발자 블로그에 기록 남기기 📝
 
-- Dark Theme
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
-- Built-in Search
-- Atom Feeds
-- PWA
-- Web Analytics
-- SEO & Performance Optimization
+---
 
-## Documentation
+### 📫 연락
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+- GitHub: [Lee-Tae-Yun](https://github.com/Lee-Tae-Yun)  
+- 이메일: [cmskzkdl3698@icloud.com](mailto:cmskzkdl3698@icloud.com)
 
-## Contributing
+---
 
-Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
-to learn, inspire, and create. Any contributions you make are greatly appreciated.
-For details, see the "[Contributing Guidelines][contribute-guide]".
-
-## Credits
-
-### Contributors
-
-Thanks to [all the contributors][contributors] involved in the development of the project!
-
-[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
-
-### Third-Party Assets
-
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
-
-The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
-
-## License
-
-This project is published under [MIT License][license].
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[open-container]: https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cotes2020/jekyll-theme-chirpy
-[jekyllrb]: https://jekyllrb.com/
-[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+<p align="center">
+  오늘도 조용히, 꾸준히 성장 중인 춘식이였습니다.<br>
+  코드 속 고양이 한 마리 기억해주세요 🐈
+</p>
+> 오류낸 춘식이의 개발기록
