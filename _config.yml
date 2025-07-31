@@ -132,6 +132,7 @@ comments:
     reactions_enabled: "1"
     emit_metadata: "0"
     theme: "preferred_color_scheme"
+    loading: "eager"
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
