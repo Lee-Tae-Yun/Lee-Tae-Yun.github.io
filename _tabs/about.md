@@ -6,7 +6,7 @@ order: 4
 ---
 
 <div style="width: 160px; height: 160px; overflow: hidden; border-radius: 50%; margin: 0 auto 1rem; display: flex; align-items: center; justify-content: center;">
-  <img src="/assets/img/profile2.JPEG" alt="OopsChoonsik"
+  <img src="/assets/img/blueChunsik.PNG" alt="OopsChoonsik"
        style="width: auto; height: 100%; object-fit: cover; object-position: center;">
 </div>
 
