@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<div style="width: 160px; height: 160px; overflow: hidden; border-radius: 50%; margin: 0 auto 1rem; display: flex; align-items: center; justify-content: center;">
+<div style="width: 250px; height: 250px; overflow: hidden; border-radius: 50%; margin: 0 auto 1rem; display: flex; align-items: center; justify-content: center;">
   <img src="/assets/img/profile3.jpeg" alt="OopsChoonsik"
        style="width: auto; height: 100%; object-fit: cover; object-position: center;">
 </div>
