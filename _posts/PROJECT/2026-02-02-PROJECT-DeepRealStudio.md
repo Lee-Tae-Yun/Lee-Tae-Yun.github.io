@@ -9,7 +9,7 @@ math: true
 mermaid: true
 ---
 
-## 🧩 DeepReal Studio  
+## DeepReal Studio  
 > AI 이미지 생성 기반 iOS 앱
 
 DeepReal Studio는 사용자가 최소한의 입력만으로
